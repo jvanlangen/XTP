@@ -6,8 +6,10 @@ Target platform:
 - Mac
 
 Using a visual flow designer to program expression trees.
+
+Framework:
 - Dotnet 5
 - AvalonUI
 
-Uses:
+Application:
 - Signal processing (audio/video)
