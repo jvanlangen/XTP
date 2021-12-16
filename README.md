@@ -8,3 +8,6 @@ Target platform:
 Using a visual flow designer to program expression trees.
 - Dotnet 5
 - AvalonUI
+
+Uses:
+- Signal processing (audio/video)
